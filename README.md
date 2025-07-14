@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmY4MXdha3hpdGdwMHY1dWQxY3Y0MHhjc3dpcTZyNzYzd2JrcmZpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjoM6b03G/giphy.gif" width="300">
+  <img src="ai-robot.gif" width="300">
 </p>
 
 # David Assef | Desenvolvedor de Aplicações & Entusiasta de IA
@@ -50,7 +50,7 @@ Estou sempre explorando novas tecnologias para construir aplicações robustas, 
         <br><strong>Angular</strong>
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=ionic" width="48" height="48" alt="Ionic" />
+        <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" width="60" height="28" alt="Ionic" />
         <br><strong>Ionic</strong>
       </td>
     </tr>
@@ -82,11 +82,11 @@ Estou sempre explorando novas tecnologias para construir aplicações robustas, 
         <br><strong>VSCode</strong>
       </td>
       <td>
-        <img src="https://www.cursor.so/media/logo.png" width="48" height="48" alt="Cursor" />
+        <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" width="60" height="28" alt="Cursor" />
         <br><strong>Cursor</strong>
       </td>
       <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Claude_logo.svg/1200px-Claude_logo.svg.png" width="48" height="48" alt="Claude AI" />
+         <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" width="80" height="28" alt="Claude AI" />
         <br><strong>Claude AI</strong>
       </td>
     </tr>

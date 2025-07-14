@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l1J9FwYXyLd6tT1iU/giphy.gif" width="450">
+  <img src="assets/teclado-piano.gif" width="450">
 </p>
 
 # David Assef | Compositor de Códigos & Melodias

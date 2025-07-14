@@ -35,7 +35,8 @@ Hoje, como estudante de **Análise e Desenvolvimento de Sistemas**, meu palco mu
 ## 📊 Minhas Partituras no GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidassef&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidassef&show_icons=true&theme=tokyonight" />
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidassef&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 

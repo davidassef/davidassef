@@ -1,30 +1,13 @@
-### Olá, eu sou o David! 👋
+### David Assef | Desenvolvedor de Software & Compositor
 
-<a href="https://linkedin.com/in/davidassef" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/davidassef" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+Eu não vejo diferença entre uma aplicação bem escrita e uma música bem produzida. Ambas exigem criatividade, estrutura e uma atenção obsessiva aos detalhes para criar algo que as pessoas amem usar.
 
----
+Como fundador da **Jingle Mágico**, passei anos transformando ideias em melodias cativantes. Como estudante de **Análise e Desenvolvimento de Sistemas**, meu novo palco é o código, e meu objetivo é o mesmo: construir soluções elegantes e impactantes.
 
-Desenvolvedor em formação, músico e a mente criativa por trás da **[Jingle Mágico](httpsaqui-o-link-da-sua-empresa)**.
+-   🎵 **Minha bagagem:** Criatividade, disciplina e a habilidade de entregar um projeto final que supera as expectativas.
+-   👨‍💻 **Meu arsenal atual:** JavaScript, React, Node.js, e uma vontade gigante de aprender mais. _(⬅️ Altere com suas tecnologias!)_
+-   🚀 **Minha missão:** Encontrar um lugar onde eu possa compor meu próximo sucesso — seja ele um jingle ou um software inovador.
 
-Assim como o Kike, aqui está um resumo da minha jornada:
+Vamos construir algo memorável juntos.
 
--   🎹 Tenho anos de experiência transformando as necessidades de clientes em produtos finais criativos e sob medida... só que no mundo da música. Agora, estou trazendo essa mesma paixão para o desenvolvimento de software.
--   📚 Atualmente mergulhando de cabeça em **JavaScript, React, Node.js** e todo o ecossistema moderno de desenvolvimento web. _(⬅️ Mude aqui para as tecnologias que você está focando!)_
--   🚗 Em transição de carreira, usando a jornada como motorista de aplicativo para impulsionar meu futuro na tecnologia.
--   🎯 Meu grande objetivo: **Harmonizar a lógica do código com a criatividade da música** para construir aplicações que não sejam apenas funcionais, mas também memoráveis.
-
-<br>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Teclado e Piano">
-</p>
-
----
-
-### 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidassef&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidassef&layout=compact&langs_count=8&theme=dracula"/>
-</p>
+**[Me encontre no LinkedIn](https://www.linkedin.com/in/davidassef)**

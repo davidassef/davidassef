@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ai-robot.gif" width="300">
+  <img src="https://media.giphy.com/media/5qMCjrwj53v3A4g2i4/giphy.gif" width="300">
 </p>
 
 # David Assef | Desenvolvedor de Aplicações & Entusiasta de IA
@@ -86,7 +86,7 @@ Estou sempre explorando novas tecnologias para construir aplicações robustas, 
         <br><strong>Cursor</strong>
       </td>
       <td>
-         <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" width="80" height="28" alt="Claude AI" />
+        <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" width="80" height="28" alt="Claude AI" />
         <br><strong>Claude AI</strong>
       </td>
     </tr>

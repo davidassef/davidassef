@@ -45,6 +45,7 @@ Atualmente, estou me aprofundando em <strong>Go (Golang)</strong> para backend d
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" />
 
   <h3>Backend & Databases</h3>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
@@ -60,6 +61,7 @@ Atualmente, estou me aprofundando em <strong>Go (Golang)</strong> para backend d
 
   <h3>Mobile</h3>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 
   <h3>Ferramentas & IA</h3>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
@@ -75,6 +77,8 @@ Atualmente, estou me aprofundando em <strong>Go (Golang)</strong> para backend d
 
   <h3>DevOps & Sistemas</h3>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
 </div>
@@ -104,34 +108,49 @@ Atualmente, estou me aprofundando em <strong>Go (Golang)</strong> para backend d
 ## 🚀 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/davidassef/PokeApi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davidassef&repo=PokeApi&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/davidassef/Autonomo_Control">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davidassef&repo=Autonomo_Control&theme=tokyonight" />
-  </a>
-  <sub><em>(Em desenvolvimento)</em></sub>
-
-  <a href="https://github.com/davidassef/ReciboFast">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davidassef&repo=ReciboFast&theme=tokyonight" />
-  </a>
-  <sub><em>(Em desenvolvimento)</em></sub>
-
-  <a href="https://github.com/davidassef/Amazon-Search">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davidassef&repo=Amazon-Search&theme=tokyonight" />
-  </a>
-  <sub><em>(Finalizado)</em></sub>
-
-  <a href="https://github.com/davidassef/OMentalista">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davidassef&repo=OMentalista&theme=tokyonight" />
-  </a>
-  <sub><em>(Finalizado)</em></sub>
-
-  <a href="https://github.com/davidassef/StudioFlow">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davidassef&repo=StudioFlow&theme=tokyonight" />
-  </a>
-  <sub><em>(Em desenvolvimento)</em></sub>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/davidassef/PokeApi">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidassef&repo=PokeApi&theme=tokyonight" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/davidassef/Autonomo_Control">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidassef&repo=Autonomo_Control&theme=tokyonight" />
+        </a>
+        <br/><sub><em>(Em desenvolvimento)</em></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/davidassef/ReciboFast">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidassef&repo=ReciboFast&theme=tokyonight" />
+        </a>
+        <br/><sub><em>(Em desenvolvimento)</em></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/davidassef/Amazon-Search">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidassef&repo=Amazon-Search&theme=tokyonight" />
+        </a>
+        <br/><sub><em>(Finalizado)</em></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/davidassef/OMentalista">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidassef&repo=OMentalista&theme=tokyonight" />
+        </a>
+        <br/><sub><em>(Finalizado)</em></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/davidassef/StudioFlow">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidassef&repo=StudioFlow&theme=tokyonight" />
+        </a>
+        <br/><sub><em>(Em desenvolvimento)</em></sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🌟 Além do Código

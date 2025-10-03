@@ -128,13 +128,13 @@ I'm currently deepening my knowledge in <strong>Go (Golang)</strong> for high-pe
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/davidassef/ReciboFast">
+        <a href="https://github.com/davidassef/ReciboFast-Site">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidassef&repo=ReciboFast&theme=tokyonight" />
         </a>
         <br/><sub><em>(Alpha Phase) (Showcase)</em></sub>
       </td>
       <td align="center">
-        <a href="https://www.jinglemagico.com.br">
+        <a href="https://github.com/davidassef/JingleMagico-Vitrine">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidassef&repo=JingleMagico&theme=tokyonight" />
         </a>
         <br/><sub><em>JingleMagico 2.0 - AI Music Generator</em></sub>
@@ -143,9 +143,7 @@ I'm currently deepening my knowledge in <strong>Go (Golang)</strong> for high-pe
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/davidassef/ShowPortfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidassef&repo=ShowPortfolio&theme=tokyonight" />
-        </a>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidassef&repo=ShowPortfolio&theme=tokyonight" />
         <br/><sub><em>(In development)</em></sub>
       </td>
       <td align="center">

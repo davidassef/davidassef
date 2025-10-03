@@ -131,6 +131,21 @@ I'm currently deepening my knowledge in <strong>Go (Golang)</strong> for high-pe
         <a href="https://github.com/davidassef/ReciboFast">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidassef&repo=ReciboFast&theme=tokyonight" />
         </a>
+        <br/><sub><em>(Alpha Phase) (Showcase)</em></sub>
+      </td>
+      <td align="center">
+        <a href="https://www.jinglemagico.com.br">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidassef&repo=JingleMagico&theme=tokyonight" />
+        </a>
+        <br/><sub><em>JingleMagico 2.0 - AI Music Generator</em></sub>
+        <br/><sub><em>(In development) (Showcase)</em></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/davidassef/ShowPortfolio">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidassef&repo=ShowPortfolio&theme=tokyonight" />
+        </a>
         <br/><sub><em>(In development)</em></sub>
       </td>
       <td align="center">

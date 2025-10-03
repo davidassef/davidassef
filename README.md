@@ -127,6 +127,21 @@ Atualmente, estou me aprofundando em <strong>Go (Golang)</strong> para backend d
         <a href="https://github.com/davidassef/ReciboFast">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidassef&repo=ReciboFast&theme=tokyonight" />
         </a>
+        <br/><sub><em>(Fase Alpha) (Vitrine)</em></sub>
+      </td>
+      <td align="center">
+        <a href="https://www.jinglemagico.com.br">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidassef&repo=JingleMagico&theme=tokyonight" />
+        </a>
+        <br/><sub><em>JingleMagico 2.0 - Gerador de música com IA</em></sub>
+        <br/><sub><em>(Em desenvolvimento) (Vitrine)</em></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/davidassef/ShowPortfolio">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidassef&repo=ShowPortfolio&theme=tokyonight" />
+        </a>
         <br/><sub><em>(Em desenvolvimento)</em></sub>
       </td>
       <td align="center">
